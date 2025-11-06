@@ -93,10 +93,6 @@ python data/import_to_mysql.py
 ```
 
 ## Author
-
-**Your Name**  
-- Portfolio: yourwebsite.com  
-- LinkedIn: linkedin.com/in/yourprofile  
-- GitHub: @yourusername  
+- GitHub: @Rekgotso  
 
 **Note:** All data is synthetic for portfolio demonstration purposes.
