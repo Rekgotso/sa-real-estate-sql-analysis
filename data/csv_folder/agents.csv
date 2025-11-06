@@ -1,0 +1,51 @@
+agent_id,agent_name,agency_name,contact_number,email,city
+1,Zanele Brown,Lew Geffen Sotheby's,084-368-7385,zanele.brown@lewgeffensotheby's.co.za,Johannesburg
+2,Emma Johnson,Engel & Völkers,085-314-9193,emma.johnson@engel&völkers.co.za,Durban
+3,Annelie Khumalo,Seeff Properties,076-428-2368,annelie.khumalo@seeffproperties.co.za,Pretoria
+4,Annelie Johnson,Engel & Völkers,085-600-3997,annelie.johnson@engel&völkers.co.za,Johannesburg
+5,Annelie Patel,Rawson Properties,076-349-7418,annelie.patel@rawsonproperties.co.za,Cape Town
+6,Michael Johnson,RE/MAX,071-992-3119,michael.johnson@re/max.co.za,Durban
+7,David Mokoena,Lew Geffen Sotheby's,082-414-2063,david.mokoena@lewgeffensotheby's.co.za,Port Elizabeth
+8,Michael Johnson,Chas Everitt,079-169-4628,michael.johnson@chaseveritt.co.za,Port Elizabeth
+9,Robert Johnson,Rawson Properties,077-136-3723,robert.johnson@rawsonproperties.co.za,Pretoria
+10,Sarah Johnson,Rawson Properties,086-558-3108,sarah.johnson@rawsonproperties.co.za,Port Elizabeth
+11,James Van Zyl,Leapfrog Property,074-154-4995,james.van zyl@leapfrogproperty.co.za,Johannesburg
+12,Michelle Naidoo,Pam Golding Properties,081-504-3170,michelle.naidoo@pamgoldingproperties.co.za,Pretoria
+13,Emma Van der Merwe,RE/MAX,080-104-8904,emma.van der merwe@re/max.co.za,Pretoria
+14,Jennifer Mokoena,Seeff Properties,084-853-5846,jennifer.mokoena@seeffproperties.co.za,Durban
+15,Thabo Jones,Chas Everitt,079-779-2182,thabo.jones@chaseveritt.co.za,Durban
+16,Robert Pretorius,Engel & Völkers,075-482-2729,robert.pretorius@engel&völkers.co.za,Port Elizabeth
+17,Thabo Smith,Pam Golding Properties,082-349-9448,thabo.smith@pamgoldingproperties.co.za,Johannesburg
+18,Pieter Naidoo,Tyson Properties,084-811-5007,pieter.naidoo@tysonproperties.co.za,Pretoria
+19,Michelle Van der Merwe,Engel & Völkers,071-555-4633,michelle.van der merwe@engel&völkers.co.za,Cape Town
+20,Jennifer Johnson,Lew Geffen Sotheby's,087-589-1640,jennifer.johnson@lewgeffensotheby's.co.za,Cape Town
+21,Pieter Miller,RE/MAX,073-716-4603,pieter.miller@re/max.co.za,Port Elizabeth
+22,Pieter Van Zyl,Tyson Properties,073-999-4634,pieter.van zyl@tysonproperties.co.za,Port Elizabeth
+23,Pieter Davis,Rawson Properties,083-285-3636,pieter.davis@rawsonproperties.co.za,Port Elizabeth
+24,Lisa Khumalo,Seeff Properties,078-183-7276,lisa.khumalo@seeffproperties.co.za,Johannesburg
+25,David Dlamini,Chas Everitt,078-486-9698,david.dlamini@chaseveritt.co.za,Port Elizabeth
+26,Lisa Miller,Lew Geffen Sotheby's,072-612-4157,lisa.miller@lewgeffensotheby's.co.za,Cape Town
+27,Ahmed Brown,Chas Everitt,076-982-2228,ahmed.brown@chaseveritt.co.za,Johannesburg
+28,Sipho Patel,Leapfrog Property,077-323-8584,sipho.patel@leapfrogproperty.co.za,Durban
+29,Lisa Miller,Harcourts,081-364-7360,lisa.miller@harcourts.co.za,Durban
+30,Fatima Miller,Rawson Properties,073-942-3838,fatima.miller@rawsonproperties.co.za,Johannesburg
+31,Emma Mokoena,Engel & Völkers,083-275-5004,emma.mokoena@engel&völkers.co.za,Johannesburg
+32,John Miller,Engel & Völkers,073-651-6311,john.miller@engel&völkers.co.za,Pretoria
+33,David Brown,Engel & Völkers,082-967-3727,david.brown@engel&völkers.co.za,Cape Town
+34,Sarah Pretorius,Lew Geffen Sotheby's,087-733-1082,sarah.pretorius@lewgeffensotheby's.co.za,Cape Town
+35,Robert Van der Merwe,Rawson Properties,083-238-6035,robert.van der merwe@rawsonproperties.co.za,Pretoria
+36,Nomsa Smith,Engel & Völkers,078-667-6271,nomsa.smith@engel&völkers.co.za,Cape Town
+37,Sarah Pretorius,Tyson Properties,082-909-4116,sarah.pretorius@tysonproperties.co.za,Johannesburg
+38,Thabo Davis,Harcourts,085-315-6117,thabo.davis@harcourts.co.za,Cape Town
+39,James Naidoo,Rawson Properties,087-832-8912,james.naidoo@rawsonproperties.co.za,Port Elizabeth
+40,Ahmed Patel,Chas Everitt,074-418-9630,ahmed.patel@chaseveritt.co.za,Johannesburg
+41,Lisa Naidoo,Leapfrog Property,086-285-1578,lisa.naidoo@leapfrogproperty.co.za,Port Elizabeth
+42,Nomsa Patel,Rawson Properties,084-921-1623,nomsa.patel@rawsonproperties.co.za,Durban
+43,James Dlamini,Tyson Properties,072-997-1507,james.dlamini@tysonproperties.co.za,Durban
+44,Nomsa Van Zyl,Chas Everitt,072-869-3213,nomsa.van zyl@chaseveritt.co.za,Cape Town
+45,Ahmed Khumalo,Rawson Properties,084-517-7970,ahmed.khumalo@rawsonproperties.co.za,Pretoria
+46,Sarah Pretorius,Chas Everitt,078-456-3606,sarah.pretorius@chaseveritt.co.za,Johannesburg
+47,Robert Mokoena,Pam Golding Properties,080-882-3941,robert.mokoena@pamgoldingproperties.co.za,Pretoria
+48,Robert Naidoo,RE/MAX,086-972-3784,robert.naidoo@re/max.co.za,Cape Town
+49,Ahmed Williams,Rawson Properties,077-171-6335,ahmed.williams@rawsonproperties.co.za,Cape Town
+50,Emma Khumalo,Tyson Properties,085-827-9539,emma.khumalo@tysonproperties.co.za,Cape Town

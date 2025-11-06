@@ -1,0 +1,4 @@
+property_id,title,city,suburb,property_type,bedrooms,bathrooms,size_sqm,price,listing_date,agent_id
+1,Modern Apartment,Johannesburg,Sandton,Apartment,2,1,85,1500000,2025-01-12,1
+2,Family Home,Cape Town,Sea Point,House,4,3,220,4500000,2025-02-03,2
+3,Luxury Villa,Durban,Umhlanga,Villa,5,4,450,12000000,2025-02-20,1

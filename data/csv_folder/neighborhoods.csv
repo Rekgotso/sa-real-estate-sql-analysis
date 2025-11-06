@@ -1,0 +1,53 @@
+neighborhood_id,neighborhood_name,city,province,avg_income_bracket,crime_rating,school_rating,distance_to_cbd_km
+1,Sandton,Johannesburg,Gauteng,High,3,9,5.79
+2,Rosebank,Johannesburg,Gauteng,Middle,7,6,7.01
+3,Melrose,Johannesburg,Gauteng,Middle,6,6,5.48
+4,Houghton,Johannesburg,Gauteng,Middle,4,8,6.1
+5,Parktown,Johannesburg,Gauteng,Upper-Middle,4,8,13.63
+6,Bryanston,Johannesburg,Gauteng,Upper-Middle,6,8,22.23
+7,Fourways,Johannesburg,Gauteng,Upper-Middle,7,8,23.54
+8,Randburg,Johannesburg,Gauteng,Middle,6,6,21.47
+9,Roodepoort,Johannesburg,Gauteng,Middle,6,7,24.77
+10,Soweto,Johannesburg,Gauteng,Lower-Middle,9,3,15.37
+11,Alexandra,Johannesburg,Gauteng,Low,6,3,19.03
+12,Midrand,Johannesburg,Gauteng,Upper-Middle,4,5,12.49
+13,Camps Bay,Cape Town,Western Cape,High,4,7,12.41
+14,Clifton,Cape Town,Western Cape,High,2,10,12.22
+15,Sea Point,Cape Town,Western Cape,Middle,4,8,21.23
+16,Green Point,Cape Town,Western Cape,Middle,6,5,6.86
+17,Waterfront,Cape Town,Western Cape,Upper-Middle,7,7,9.47
+18,Constantia,Cape Town,Western Cape,High,4,9,15.91
+19,Bishopscourt,Cape Town,Western Cape,High,2,9,12.51
+20,Claremont,Cape Town,Western Cape,Upper-Middle,3,7,18.67
+21,Observatory,Cape Town,Western Cape,Upper-Middle,4,7,13.72
+22,Woodstock,Cape Town,Western Cape,Upper-Middle,7,6,7.57
+23,Bellville,Cape Town,Western Cape,Upper-Middle,7,6,6.27
+24,Mitchell's Plain,Cape Town,Western Cape,Lower-Middle,9,6,32.87
+25,Waterkloof,Pretoria,Gauteng,High,3,9,10.12
+26,Brooklyn,Pretoria,Gauteng,Upper-Middle,6,5,10.92
+27,Menlyn,Pretoria,Gauteng,Upper-Middle,4,6,22.86
+28,Hatfield,Pretoria,Gauteng,Middle,6,7,20.49
+29,Centurion,Pretoria,Gauteng,Upper-Middle,6,8,17.05
+30,Silverton,Pretoria,Gauteng,Upper-Middle,7,8,12.12
+31,Arcadia,Pretoria,Gauteng,Middle,5,5,21.62
+32,Sunnyside,Pretoria,Gauteng,Upper-Middle,4,6,21.22
+33,Lynnwood,Pretoria,Gauteng,Upper-Middle,4,8,7.09
+34,Montana,Pretoria,Gauteng,Middle,6,6,16.21
+35,Umhlanga,Durban,KwaZulu-Natal,High,4,8,6.25
+36,Ballito,Durban,KwaZulu-Natal,Middle,3,8,5.15
+37,La Lucia,Durban,KwaZulu-Natal,Middle,6,5,20.29
+38,Morningside,Durban,KwaZulu-Natal,Middle,7,7,9.0
+39,Berea,Durban,KwaZulu-Natal,Upper-Middle,6,7,24.54
+40,Glenwood,Durban,KwaZulu-Natal,Middle,4,6,12.56
+41,Durban North,Durban,KwaZulu-Natal,Middle,5,8,16.74
+42,Westville,Durban,KwaZulu-Natal,Middle,5,6,7.55
+43,Umlazi,Durban,KwaZulu-Natal,Lower-Middle,8,4,20.83
+44,Phoenix,Durban,KwaZulu-Natal,Low,8,3,31.63
+45,Summerstrand,Port Elizabeth,Eastern Cape,Upper-Middle,7,6,23.98
+46,Humewood,Port Elizabeth,Eastern Cape,Middle,4,5,15.35
+47,Walmer,Port Elizabeth,Eastern Cape,Middle,7,7,24.37
+48,Lovemore Heights,Port Elizabeth,Eastern Cape,Middle,7,8,17.22
+49,Greenbushes,Port Elizabeth,Eastern Cape,Middle,4,7,11.36
+50,Framesby,Port Elizabeth,Eastern Cape,Middle,3,8,21.25
+51,Kabega Park,Port Elizabeth,Eastern Cape,Upper-Middle,3,6,20.28
+52,Newton Park,Port Elizabeth,Eastern Cape,Upper-Middle,3,5,11.18
