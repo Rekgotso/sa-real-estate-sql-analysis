@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data files
+data/*.csv
+
+# MySQL dumps
+*.sql
+
+# Environment
+.env
